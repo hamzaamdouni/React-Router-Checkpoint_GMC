@@ -1,0 +1,34 @@
+h1 {
+    color : rgba(252, 255, 255, 0.445) !important;
+    display : flex;
+    align-items :center;
+    justify-content :space-around;
+    font-size: 46px;
+    line-height: 1.13043;
+    font-family: "Roboto Slab", serif;
+    text-align: center !important;
+    margin-top: 100px;
+}
+h4 {
+    color : rgba(252, 255, 255, 0.445) !important;
+    display : flex;
+    align-items :center;
+    justify-content :space-around;
+    font-size: 22px;
+    line-height: 1.13043;
+    font-family: "Roboto Slab", serif;
+    text-align: center !important;
+    margin-top: 100px;
+}
+
+h2 {
+    color : rgba(252, 255, 255, 0.445) !important;
+    display : flex;
+    align-items :center;
+    justify-content :space-around;
+    font-size: 30px;
+    line-height: 1.13043;
+    font-family: "Roboto Slab", serif;
+    text-align: center !important;
+    margin-top: 100px;
+}
